@@ -38,4 +38,4 @@ A collection of examples and demos for people building the web with Netlify
 
 - [/examples](examples) — a collection of deployable examples
 - [/boilerplates](boilerplates) — Scaffolds for creating new demos with popular frameworks
-- [/styles](styles) - Styles for demos and examples to use for consistency. ([See site for usage](https://example-styles.netlify.app))
+- [/styles](styles) - Styles for demos and examples to use for consistency. ([See site for usage](https://example-styles.netlify.app)) 
